@@ -6,8 +6,8 @@
      <p>Nome: <input type="text" name="nome"><br></p>
      <p>Senha:  <input type="password" name="senha"></p>
      <p> Sexo:
-      <input type="radio" name="sexo" value="feminino"> Feminino<br>
-      <input type="radio" name="sexo" value="masculino"> Masculino<br>
+      <input type="checkbox" name="sexo" value="feminino"> Feminino<br>
+      <input type="checkbox" name="sexo" value="masculino"> Masculino<br>
       </p>
      </form>
  </body>
